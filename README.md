@@ -1,12 +1,20 @@
 ## Hey, I'm Mehriddin
 
-**Full-Stack Developer** · Building things with code
+**Software Engineer** · Full-Stack & Mobile Development
 
 ---
 
-**Tech Stack**
+**Languages**
 
-`TypeScript` `JavaScript` `React` `Next.js` `Node.js`
+`TypeScript` `JavaScript` `Dart`
+
+**Frontend**
+
+`React` `Next.js` `Flutter`
+
+**Backend**
+
+`Node.js`
 
 ---
 
