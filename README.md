@@ -2,6 +2,8 @@
 
 **Software Engineer** · Full-Stack & Mobile Development
 
+`academic` · `professional` · `passionate` · `caffeinated`
+
 ---
 
 **Languages & Tools**
