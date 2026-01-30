@@ -2,7 +2,8 @@
 
 **Software Engineer** · Full-Stack & Mobile Development
 
-Pursuing Computer Science while building full-stack and mobile applications. Committed to writing clean, maintainable code — fueled by curiosity, coffee, and the occasional mass of red compiler errors.
+Pursuing Computer Science while building full-stack and mobile applications. 
+Committed to writing clean, maintainable code — fueled by curiosity, coffee, and the occasional mass of creativity.
 
 ---
 
