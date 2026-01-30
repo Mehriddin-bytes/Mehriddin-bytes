@@ -2,7 +2,7 @@
 
 **Software Engineer** · Full-Stack & Mobile Development
 
-`academic` · `professional` · `passionate` · `caffeinated`
+Pursuing Computer Science while building full-stack and mobile applications. Committed to writing clean, maintainable code — fueled by curiosity, coffee, and the occasional mass of red compiler errors.
 
 ---
 
