@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey, I'm Mehriddin
 
-<!--
-**Mehriddin-bytes/Mehriddin-bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer** · Building things with code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack**
+
+`TypeScript` `JavaScript` `React` `Next.js` `Node.js`
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mehriddin--bytes-181717?style=flat&logo=github)](https://github.com/Mehriddin-bytes)
